@@ -1,0 +1,1 @@
+id:12,text:'Welcome to File Manipulatons With Node js';id:12,text:'Welcome to File Manipulatons With Node js';id:12,text:'Welcome to File Manipulatons With Node js';Name:'lahiru',Age:12,status:'single';Name:'lahiru',Age:12,status:'single'
